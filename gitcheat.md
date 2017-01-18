@@ -20,5 +20,8 @@ git log
 
 git add .
 
+git status
+
 git commit -m "clear message describing the changes you made"
+
 git push origin masterstatus
